@@ -1,0 +1,102 @@
+
+
+/**
+ * Author:    Ping Cheng Chung
+ * Date:      4/20/2021
+ *
+ * I, Ping Cheng Chung, certify that I wrote this code from scratch and did
+ * not copy it in part or whole from another source.  Any references used
+ * in the completion of the assignment are cited in my README file and in
+ * the appropriate method header.
+ *
+ * File Contents
+ *
+ *    my css style
+ *
+ *
+ */
+
+
+
+#Uresearch_popup {
+	position: fixed;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 170px;
+    height: 155px;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+    background-color: bisque;
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-image: initial;
+	
+	
+	
+}
+
+#U_title {
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+#U_ID{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	
+}
+
+.reload_icon{
+	font-size: 15px;
+    font-weight: bold;
+    padding: revert;
+    color: green;
+    background-color: transparent;
+	
+	
+}
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 15px;
+  background-color: #4CAF50;
+}
+#close_button{
+	position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 10px;
+    padding: 3px;
+}
+#ref_div{
+	margin-top: 4px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+#citations_div{
+	margin-top: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+
+}
+	
+#myBar{
+	margin-top: 4px
+}
+	
+	
+	
+}
+
+
+
+
+
+
