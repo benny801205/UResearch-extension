@@ -13,6 +13,9 @@ Description:   This extension can only be used with Microsoft Academic Engine. F
 ```
 ## Chrome Web Stroe:
 https://chrome.google.com/webstore/detail/uresearch/kiilamnkpcpkomnbflejdiodkecklkmj?hl=en
+
+## Library
+Jquery, Bootstrap, Sweetalert2
 ### 06/07/2021
 * Display the number of citations in the result file
 * Add References download function 
