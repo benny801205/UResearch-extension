@@ -6,7 +6,7 @@ Instructor:     Pai Wang
 Institution:   University of Utah
 Date:          April, 2021
 Copyright:     Pai Wang, Ping Cheng Chung
-Description:   This extension can only be used with Microsoft Academic Engine. Find your target paper, and then this tool can help download the information of all the paper which cite the target paper.
+Description:   This extension can only be used with Microsoft Academic Engine. Find your target paper, and this tool can help download the information of citations.
 			   The information includes title, abstract, authors, labels, institutions, publish year and source link.
 
 
